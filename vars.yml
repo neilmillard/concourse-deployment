@@ -1,0 +1,9 @@
+---
+bosh_virtualbox_cpi_sha1: 537c77b087eeda859b1eb89553efa6f808214d50
+bosh_virtualbox_cpi_version: "0.0.12"
+concourse_sha1: b74f09223ff75ac97bbb22d6cb4773c1a76e8aec
+concourse_version: 3.4.1
+garden_runc_sha1: a153fd2b9d85d01772e9c6907b8c9e5005059c9e
+garden_runc_version: 1.9.3
+stemcell_sha1: 34b06740d6804a491316185973c4b77c86b45e5c
+stemcell_version: "3445.2"

@@ -38,7 +38,8 @@ bosh create-env concourse.yml \
   -v internal_cidr=192.168.50.0/24 \
   -v internal_gw=192.168.50.1 \
   -v internal_ip=192.168.50.4 \
-  -v public_ip=192.168.50.4
+  -v public_ip=192.168.50.4 \
+  -l vars.yml
 ```
 
 ## Create the Concourse VM in Google Cloud Platform
